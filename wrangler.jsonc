@@ -1,5 +1,5 @@
 {
   "name": "bloxcraft-game-hub",
   "compatibility_date": "2025-09-29",
-  "main": "/worker.js"
+  "main": "worker.js"
 }
