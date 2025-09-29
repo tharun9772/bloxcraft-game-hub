@@ -1,5 +1,5 @@
 
-    const worker = new Worker('/worker.js');
+    const worker = new Worker('worker.js');
 
     fetch('/index.html')
       .then(response => response.text())
