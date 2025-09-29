@@ -1,1 +1,2 @@
-# bloxcraft-game-hub
+# Bloxcraft Game Hub
+**Coming Soon!**
